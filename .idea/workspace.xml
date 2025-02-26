@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b651d667-0c87-4d17-b8f3-d6d05228dfe0" name="Changes" comment="feat: implementar classe Esfera com cálculo de volume e área">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Empresa.java" afterDir="false" />
-    </list>
+    <list default="true" id="b651d667-0c87-4d17-b8f3-d6d05228dfe0" name="Changes" comment="feat: implementar classe Empregado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,11 +92,37 @@
       <option name="project" value="LOCAL" />
       <updated>1740534359063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: implementar classe Empresa">
+      <option name="closed" value="true" />
+      <created>1740535513679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740535513679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: implementar classe Empresa">
+      <option name="closed" value="true" />
+      <created>1740535524158</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740535524158</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: implementar classe Empregado">
+      <option name="closed" value="true" />
+      <created>1740535614339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740535614339</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: implementar classe Esfera com cálculo de volume e área" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: implementar classe Esfera com cálculo de volume e área" />
+    <MESSAGE value="feat: implementar classe Empresa" />
+    <MESSAGE value="feat: implementar classe Empregado" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: implementar classe Empregado" />
   </component>
 </project>
